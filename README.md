@@ -1,5 +1,5 @@
-# ReactNativeProjects           September 2022 
-Projects using React-Native 
+# Number Guess Game          September 2022 
+Project using React-Native 
 
   
 node-modules were excluded from this folder-dump 
